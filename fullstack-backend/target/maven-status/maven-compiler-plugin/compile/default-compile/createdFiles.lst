@@ -1,0 +1,3 @@
+com\example\fullstack_backend\repository\UserRapository.class
+com\example\fullstack_backend\FullstackBackendApplication.class
+com\example\fullstack_backend\model\User.class
